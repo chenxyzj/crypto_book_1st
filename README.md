@@ -30,7 +30,7 @@
 >>	用户群组地址：https://groups.google.com/forum/\#!forum/cryptopp-users
 
 ##	声明：
->	&nbsp;&nbsp;&nbsp;&nbsp;由于作者水平有限，错误之处在所难免。欢迎通过如下方式反馈相关问题：
+>	由于作者水平有限，错误之处在所难免。欢迎通过如下方式反馈相关问题：
 
 >	QQ：1220195669
 
