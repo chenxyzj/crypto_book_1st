@@ -25,9 +25,9 @@
 
 >	Crypto++库Google论坛：
 
->>	公告通知地址：https://groups.google.com/forum/\#!forum/cryptopp-announce
+>>	公告通知地址：https://groups.google.com/forum/#!forum/cryptopp-announce
 
->>	用户群组地址：https://groups.google.com/forum/\#!forum/cryptopp-users
+>>	用户群组地址：https://groups.google.com/forum/#!forum/cryptopp-users
 
 ##	声明：
 >	由于作者水平有限，错误之处在所难免。欢迎通过如下方式反馈相关问题：
