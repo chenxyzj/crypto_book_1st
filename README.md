@@ -60,11 +60,42 @@
 ***
 ***
 
-##	其他的密码程序库：
+##	其他的密码（安全）类程序库：
 >	OpenSSL：
 
 >>	GitHub：https://github.com/openssl/openssl
 
 >>	官网：https://www.openssl.org/
-	
-	
+
+>	Botan：
+
+>>	GitHub：https://github.com/randombit/botan
+
+>>	官网：https://botan.randombit.net/
+
+>	Bouncy Castle：
+
+>>	官网：https://www.bouncycastle.org/	
+
+>	NaCl：
+
+>>	官网：https://nacl.cr.yp.to/
+
+>	cryptlib：
+
+>>	官网：https://www.cryptlib.com/
+
+>	GnuTLS：
+
+>>	官网：https://www.gnutls.org/
+
+>	CryptoComply：
+
+>>	官网：https://www.safelogic.com/cryptocomply/
+
+>	wolfSSL：
+
+>>	GitHub：https://github.com/wolfSSL/wolfssl
+
+>>	官网：https://www.wolfssl.com/products/wolfcrypt-2/
+
