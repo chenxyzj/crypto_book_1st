@@ -1,3 +1,4 @@
+![avatar](https://github.com/locomotive-crypto/crypto_book_1st/blob/master/resource/0001.jpg)
 # crypto_book_1st仓库
 
 ###	作者：韩露露、杨波
