@@ -1,10 +1,12 @@
 ![avatar](https://github.com/locomotive-crypto/crypto_book_1st/blob/master/resource/0001.jpg)
 # crypto_book_1st仓库
 
-###	作者：韩露露、杨波
+##	作者：韩露露、杨波
 
 ##	仓库简介：
 >	&nbsp;&nbsp;&nbsp;&nbsp;该仓库存放了《深入浅出CryptoPP密码学库》的随书电子文档，这些文档仅包含书中的示例代码。任何人都可以复制、传播、使用这些代码。
+
+***
 
 ##	《深入浅出CryptoPP密码学库》内容简介：
 >	&nbsp;&nbsp;&nbsp;&nbsp;本书向读者介绍密码学库CryptoPP（或Crypto++）的使用方法和设计原理。CryptoPP是一个用C++语言编写的、开源的、免费的密码程序库，它最初由Wei Dai开发，现由开源社区维护。CryptoPP库广泛应用于学术界、开源项目、非商业项目以及商业项目，它几乎包括了目前已经公开的所有密码算法，支持当前主流的多种系统平台，并且具有良好的设计结构和较高的执行效率。
@@ -14,6 +16,15 @@
 >	&nbsp;&nbsp;&nbsp;&nbsp;本书最大的特点就是以应用为导向、以解决实际工程问题为目标，理论结合实践，将抽象的密码学变成保障信息安全的实际工具。
 
 >	&nbsp;&nbsp;&nbsp;&nbsp;本书可以作为密码学、网络安全等专业在校学生的上机实验教材，也可以作为信息安全产品开发者、科研人员、密码算法实现者的参考手册。
+
+>	Wei Dai主页：http://www.weidai.com/
+
+>	Jeffrey Walton：
+
+>>	GitHub地址：https://github.com/noloader
+
+>>	Stack Overflow：https://stackoverflow.com/users/608639/jww
+***
 
 ##	网络资源：
 >	本书更多示例代码：https://github.com/locomotive-crypto
