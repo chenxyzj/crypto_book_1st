@@ -112,6 +112,10 @@
 ####	分组密码：
 * CAST-128(The CAST-128 Encryption Algorithm):https://tools.ietf.org/html/rfc2144
 * CAST-256(The CAST-256 Encryption Algorithm):https://tools.ietf.org/html/rfc2612
+####	流密码：
+* Poly1305(ChaCha20 and Poly1305 for IETF Protocols):https://tools.ietf.org/html/rfc8439
+####	消息认证码：
+* ChaCha20(ChaCha20 and Poly1305 for IETF Protocols):https://tools.ietf.org/html/rfc8439
 ***
 ***
 
