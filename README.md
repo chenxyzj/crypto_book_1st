@@ -109,6 +109,9 @@
 * MD2(The MD2 Message-Digest Algorithm):https://tools.ietf.org/html/rfc1319
 * MD4(The MD4 Message-Digest Algorithm):https://tools.ietf.org/html/rfc1320
 * MD5(The MD5 Message-Digest Algorithm):https://datatracker.ietf.org/doc/rfc1321/
+####	分组密码：
+* CAST-128(The CAST-128 Encryption Algorithm):https://tools.ietf.org/html/rfc2144
+* CAST-256(The CAST-256 Encryption Algorithm):https://tools.ietf.org/html/rfc2612
 ***
 ***
 
