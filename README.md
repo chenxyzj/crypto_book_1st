@@ -101,3 +101,7 @@
 
 >>	官网：https://www.wolfssl.com/products/wolfcrypt-2/
 
+##	密码学课程课件：
+
+>	北京航空航天大学研究生密码学课程：https://github.com/weiyinfu/cryptography
+
