@@ -119,7 +119,3 @@
 ***
 ***
 
-##	密码学课程资料：
-
->	北京航空航天大学研究生密码学课程课件：https://github.com/weiyinfu/cryptography
-
