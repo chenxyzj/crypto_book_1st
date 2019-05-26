@@ -106,9 +106,9 @@
 
 ##	密码算法：
 ####	Hash函数：
->	MD2(The MD2 Message-Digest Algorithm)：https://tools.ietf.org/html/rfc1319
->	MD4(The MD4 Message-Digest Algorithm):https://tools.ietf.org/html/rfc1320
->	MD5(The MD5 Message-Digest Algorithm):https://datatracker.ietf.org/doc/rfc1321/
+* MD2(The MD2 Message-Digest Algorithm)：https://tools.ietf.org/html/rfc1319
+* MD4(The MD4 Message-Digest Algorithm):https://tools.ietf.org/html/rfc1320
+* MD5(The MD5 Message-Digest Algorithm):https://datatracker.ietf.org/doc/rfc1321/
 ***
 ***
 
