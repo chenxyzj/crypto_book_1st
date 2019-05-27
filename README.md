@@ -113,6 +113,7 @@
 ####	分组密码（待补充）：
 * CAST-128(The CAST-128 Encryption Algorithm):https://tools.ietf.org/html/rfc2144
 * CAST-256(The CAST-256 Encryption Algorithm):https://tools.ietf.org/html/rfc2612
+* Camellia(A Description of the Camellia Encryption Algorithm):https://www.rfc-editor.org/info/rfc3713
 ####	流密码（待补充）：
 * ChaCha20(ChaCha20 and Poly1305 for IETF Protocols):https://tools.ietf.org/html/rfc8439
 ####	消息认证码（待补充）：
