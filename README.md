@@ -104,17 +104,18 @@
 ***
 ***
 
-##	密码算法：
-####	Hash函数：
+##	密码算法（待补充）：
+####	Hash函数（待补充）：
 * MD2(The MD2 Message-Digest Algorithm):https://tools.ietf.org/html/rfc1319
 * MD4(The MD4 Message-Digest Algorithm):https://tools.ietf.org/html/rfc1320
 * MD5(The MD5 Message-Digest Algorithm):https://datatracker.ietf.org/doc/rfc1321/
-####	分组密码：
+* SHA1(US Secure Hash Algorithm 1 (SHA1)):https://tools.ietf.org/html/rfc3174
+####	分组密码（待补充）：
 * CAST-128(The CAST-128 Encryption Algorithm):https://tools.ietf.org/html/rfc2144
 * CAST-256(The CAST-256 Encryption Algorithm):https://tools.ietf.org/html/rfc2612
-####	流密码：
+####	流密码（待补充）：
 * ChaCha20(ChaCha20 and Poly1305 for IETF Protocols):https://tools.ietf.org/html/rfc8439
-####	消息认证码：
+####	消息认证码（待补充）：
 * Poly1305(ChaCha20 and Poly1305 for IETF Protocols):https://tools.ietf.org/html/rfc8439
 ***
 ***
