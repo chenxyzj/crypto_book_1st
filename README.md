@@ -121,4 +121,4 @@
 * Poly1305(ChaCha20 and Poly1305 for IETF Protocols):https://tools.ietf.org/html/rfc8439
 ***
 ***
-
+![avatar](https://github.com/locomotive-crypto/crypto_book_1st/blob/master/resource/0002.jpg)
