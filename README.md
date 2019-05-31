@@ -121,7 +121,7 @@
 * Poly1305(ChaCha20 and Poly1305 for IETF Protocols):https://tools.ietf.org/html/rfc8439
 * VMAC(VMAC: Message Authentication Code using Universal Hashing):http://www.fastcrypto.org/vmac/draft-krovetz-vmac-01.txt
 ####	口令Hash函数
-PHC(Password Hashing Competition)是一个类似于NIST的AES和SHA3密码算法竞赛。它发起于2013年，到2014年3月31日为止共有24个算法提交。2015年7月，该竞赛公布最终获胜的算法————Argon2。
+PHC(Password Hashing Competition)是一个类似于NIST的AES和SHA3密码算法竞赛。它发起于2013年，到2014年3月31日为止提交的算法共有24个。2015年7月，该竞赛公布最终获胜的算法————Argon2。
 * Argon2:https://password-hashing.net/submissions/specs/Argon-v3.pdf
 * AntCrypt:https://password-hashing.net/submissions/specs/AntCrypt-v0.pdf
 * battcrypt:https://password-hashing.net/submissions/specs/battcrypt-v0.pdf
@@ -143,8 +143,8 @@ PHC(Password Hashing Competition)是一个类似于NIST的AES和SHA3密码算法
 * TwoCats:https://password-hashing.net/submissions/specs/TwoCats-v0.pdf
 * Yarn:https://password-hashing.net/submissions/specs/Yarn-v2.pdf
 * yescrypt:https://password-hashing.net/submissions/specs/yescrypt-v2.pdf
-* Pufferfish:
-* M3lcrypt:
-* Catfish：
+* Pufferfish:（待补充）
+* M3lcrypt:（待补充）
+* Catfish：（待补充）
 ***
 ***
