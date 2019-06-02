@@ -105,6 +105,7 @@
 ***
 
 ##	密码算法（待补充）：
+####	随机数发生器（待补充）：
 ####	Hash函数（待补充）：
 * MD2(The MD2 Message-Digest Algorithm):https://tools.ietf.org/html/rfc1319
 * MD4(The MD4 Message-Digest Algorithm):https://tools.ietf.org/html/rfc1320
@@ -126,6 +127,9 @@
 * RFC2898(PKCS #5: Password-Based Cryptography Specification  Version 2.0):https://tools.ietf.org/html/rfc2898
 * RFC5869(HMAC-based Extract-and-Expand Key Derivation Function (HKDF)):https://tools.ietf.org/html/rfc5869
 * RFC7914(The scrypt Password-Based Key Derivation Function):https://tools.ietf.org/html/rfc7914
+####	公钥加密（待补充）：
+####	数字签名（待补充）：
+####	密钥协商（待补充）：
 ####	口令Hash函数
 PHC(Password Hashing Competition)是一个类似于NIST的AES和SHA3密码算法竞赛。它发起于2013年，到2014年3月31日为止提交的算法共有24个。2015年7月，该竞赛公布最终获胜的算法————Argon2。
 * Argon2:https://password-hashing.net/submissions/specs/Argon-v3.pdf
