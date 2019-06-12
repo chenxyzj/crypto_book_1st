@@ -118,6 +118,7 @@
 * Camellia(The Camellia Cipher Algorithm and Its Use With IPsec):https://tools.ietf.org/html/rfc4312
 * RC5(The RC5, RC5-CBC, RC5-CBC-Pad, and RC5-CTS Algorithms):https://www.rfc-editor.org/info/rfc2040
 * AES(Rijndael Encryption Algorithm):http://www.efgh.com/software/rijndael.htm
+* AES(Advanced Encryption Standard):https://csrc.nist.gov/csrc/media/publications/fips/197/final/documents/fips-197.pdf
 
 ####	流密码（待补充）：
 * ChaCha20(ChaCha20 and Poly1305 for IETF Protocols):https://tools.ietf.org/html/rfc8439
