@@ -116,6 +116,9 @@
 * CAST-256(The CAST-256 Encryption Algorithm):https://tools.ietf.org/html/rfc2612
 * Camellia(A Description of the Camellia Encryption Algorithm):https://www.rfc-editor.org/info/rfc3713
 * Camellia(The Camellia Cipher Algorithm and Its Use With IPsec):https://tools.ietf.org/html/rfc4312
+* RC5(The RC5, RC5-CBC, RC5-CBC-Pad, and RC5-CTS Algorithms):https://www.rfc-editor.org/info/rfc2040
+* AES(Rijndael Encryption Algorithm):http://www.efgh.com/software/rijndael.htm
+
 ####	流密码（待补充）：
 * ChaCha20(ChaCha20 and Poly1305 for IETF Protocols):https://tools.ietf.org/html/rfc8439
 ####	消息认证码（待补充）：
