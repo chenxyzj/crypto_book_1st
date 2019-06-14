@@ -108,6 +108,8 @@
 ####	随机数发生器（待补充）：
 * MT19937ar:http://www.math.sci.hiroshima-u.ac.jp/~m-mat/MT/ARTICLES/mt.pdf
 * MT19937:http://www.math.sci.hiroshima-u.ac.jp/~m-mat/MT/MT2002/emt19937ar.html
+* HMAC_DRBG:https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-90Ar1.pdf
+* Hash_DRBG:https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-90Ar1.pdf
 
 ####	Hash函数（待补充）：
 * MD2(The MD2 Message-Digest Algorithm):https://tools.ietf.org/html/rfc1319
