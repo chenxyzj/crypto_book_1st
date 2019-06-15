@@ -117,6 +117,7 @@
 * MD5(The MD5 Message-Digest Algorithm):https://datatracker.ietf.org/doc/rfc1321/
 * SHA1(US Secure Hash Algorithm 1 (SHA1)):https://tools.ietf.org/html/rfc3174
 * SM3(SM3 Hash function draft-shen-sm3-hash-01):https://tools.ietf.org/html/draft-shen-sm3-hash
+* SHA3:https://nvlpubs.nist.gov/nistpubs/FIPS/NIST.FIPS.202.pdf
 ####	分组密码（待补充）：
 * CAST-128(The CAST-128 Encryption Algorithm):https://tools.ietf.org/html/rfc2144
 * CAST-256(The CAST-256 Encryption Algorithm):https://tools.ietf.org/html/rfc2612
