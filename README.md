@@ -141,6 +141,7 @@
 * RFC7914(The scrypt Password-Based Key Derivation Function):https://tools.ietf.org/html/rfc7914
 ####	公钥加密（待补充）：
 ####	数字签名（待补充）：
+* RFC6979-Digital Signature(Deterministic Usage of the Digital Signature Algorithm (DSA) and Elliptic Curve Digital Signature Algorithm (ECDSA)):https://tools.ietf.org/pdf/rfc6979.pdf
 ####	密钥协商（待补充）：
 ####	口令Hash函数
 PHC(Password Hashing Competition)是一个类似于NIST的AES和SHA3密码算法竞赛。它发起于2013年，到2014年3月31日为止提交的算法共有24个。2015年7月，该竞赛公布最终获胜的算法————Argon2。
