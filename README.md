@@ -138,8 +138,12 @@
 * NIST SP 800-132(Recommendation for Password-Based Key Derivation: Part 1: Storage Applications):https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-132.pdf
 * RFC2898(PKCS #5: Password-Based Cryptography Specification  Version 2.0):https://tools.ietf.org/html/rfc2898
 * RFC5869(HMAC-based Extract-and-Expand Key Derivation Function (HKDF)):https://tools.ietf.org/html/rfc5869
-* RFC7914(The scrypt Password-Based Key Derivation Function):https://tools.ietf.org/html/rfc7914
+* RFC7914(The scrypt Password-Based Key Derivation Function):https://tools.ietf.org/html/rfc7914.pdf
 ####	公钥加密（待补充）：
+* RSA:
+> PKCS#1-2.2(PKCS #1: RSA Cryptography Specifications Version 2.2):https://tools.ietf.org/pdf/rfc8017.pdf
+> PKCS#1-2.1( Public-Key Cryptography Standards (PKCS) #1: RSA Cryptography Specifications Version 2.1):https://tools.ietf.org/pdf/rfc3447.pdf
+> PKCS#1-2.0(PKCS #1: RSA Cryptography Specifications Version 2.0):https://tools.ietf.org/pdf/rfc2437.pdf
 ####	数字签名（待补充）：
 * RFC6979-Digital Signature(Deterministic Usage of the Digital Signature Algorithm (DSA) and Elliptic Curve Digital Signature Algorithm (ECDSA)):https://tools.ietf.org/pdf/rfc6979.pdf
 * RWSS:
