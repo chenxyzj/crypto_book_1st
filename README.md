@@ -143,7 +143,7 @@
 ####	数字签名（待补充）：
 * RFC6979-Digital Signature(Deterministic Usage of the Digital Signature Algorithm (DSA) and Elliptic Curve Digital Signature Algorithm (ECDSA)):https://tools.ietf.org/pdf/rfc6979.pdf
 * RWSS:
-** RSA signatures and Rabin–Williams signatures:the state of the art:http://cr.yp.to/sigs/rwsota-20080131.pdf
+> RSA signatures and Rabin–Williams signatures:the state of the art:http://cr.yp.to/sigs/rwsota-20080131.pdf
 
 ####	密钥协商（待补充）：
 * DH(Diffie-Hellman Key Agreement Method):https://tools.ietf.org/pdf/rfc2631.pdf
