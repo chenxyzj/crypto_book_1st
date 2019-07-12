@@ -128,6 +128,7 @@
 * AES(Advanced Encryption Standard):https://csrc.nist.gov/csrc/media/publications/fips/197/final/documents/fips-197.pdf
 * IDEA(International Data Encryption Algorithm):http://www.quadibloc.com/crypto/co040302.htm
 * SM4(SMS4 Encryption Algorithm for Wireless Networks):https://eprint.iacr.org/2008/329.pdf
+* Blowfish(Schneier on Security):https://www.schneier.com/academic/blowfish/
 ####	流密码（待补充）：
 * ChaCha20(ChaCha20 and Poly1305 for IETF Protocols):https://tools.ietf.org/html/rfc8439
 ####	消息认证码（待补充）：
