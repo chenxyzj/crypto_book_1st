@@ -138,6 +138,11 @@
 > Specification of ARIA:http://210.104.33.10/ARIA/doc/ARIA-specification-e.pdf
 
 > A Description of the ARIA Encryption Algorithm:https://www.rfc-editor.org/rfc/pdfrfc/rfc5794.txt.pdf
+* CLEFIA:
+> The 128-bit Blockcipher:https://www.sony.net/Products/cryptography/clefia/
+
+> RFC6114(The 128-Bit Blockcipher CLEFIA):https://www.rfc-editor.org/rfc/pdfrfc/rfc6114.txt.pdf
+
 ####	流密码（待补充）：
 * ChaCha20(ChaCha20 and Poly1305 for IETF Protocols):https://tools.ietf.org/html/rfc8439
 ####	消息认证码（待补充）：
