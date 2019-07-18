@@ -125,6 +125,8 @@
 
 > SM3 Cryptographic Hash Algorithm:http://www.gmbz.org.cn/upload/2018-07-24/1532401392982079739.pdf
 
+> 国家密码管理局关于发布《SM3密码杂凑算法》公告:http://www.oscca.gov.cn/sca/xxgk/2010-12/17/content_1002389.shtml
+
 * SHA3:https://nvlpubs.nist.gov/nistpubs/FIPS/NIST.FIPS.202.pdf
 ####	分组密码（待补充）：
 * CAST-128(The CAST-128 Encryption Algorithm):https://tools.ietf.org/html/rfc2144
