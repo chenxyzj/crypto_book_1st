@@ -103,6 +103,12 @@
 
 >>	GitHub: https://github.com/guanzhi/GmSSL
 
+>	TaSSL——完全支持国密体系的OpenSSL:
+
+>>	官网:http://www.tass.com.cn/portal/research/viewpoint_view-36.html
+
+>>	源代码:http://www.tass.com.cn/images/TASSL-openssl_1.0.2o.rar
+
 ***
 ***
 
