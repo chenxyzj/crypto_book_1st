@@ -157,6 +157,8 @@
 
 > RFC6114(The 128-Bit Blockcipher CLEFIA):https://www.rfc-editor.org/rfc/pdfrfc/rfc6114.txt.pdf
 
+* Simon and Speck(THE SIMON AND SPECK FAMILIES OF LIGHTWEIGHT BLOCK CIPHERS):https://eprint.iacr.org/2013/404.pdf
+
 ####	流密码（待补充）：
 * ChaCha20(ChaCha20 and Poly1305 for IETF Protocols):https://tools.ietf.org/html/rfc8439
 * KCipher-2(A Description of the KCipher-2 Encryption Algorithm):https://www.rfc-editor.org/rfc/pdfrfc/rfc7008.txt.pdf
