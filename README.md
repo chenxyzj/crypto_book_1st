@@ -199,6 +199,8 @@
 
 >	Version 2.1:https://www.rfc-editor.org/rfc/pdfrfc/rfc3447.txt.pdf
 
+>	Version 2.0:https://www.rfc-editor.org/rfc/pdfrfc/rfc2437.txt.pdf
+
 * PKCS #7(Crytographic Message Syntax):
 >	Version 1.5:https://tools.ietf.org/pdf/rfc2315.pdf
 
