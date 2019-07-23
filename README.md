@@ -206,6 +206,9 @@
 * PKCS #3(Diffie-Hellman Key-Agreement Standard):
 >	Version 1.4:https://www.teletrust.de/fileadmin/files/oid/oid_pkcs-3v1-4.pdf
 
+* PKCS #5(Password-Based Cryptography Standard):
+>	Version 2.1:https://www.rfc-editor.org/rfc/pdfrfc/rfc8018.txt.pdf
+
 * PKCS #7(Crytographic Message Syntax):
 >	Version 1.5:https://tools.ietf.org/pdf/rfc2315.pdf
 
