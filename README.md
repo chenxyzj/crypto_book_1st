@@ -195,7 +195,8 @@
 * PKCS #2(RSA Cryptography Standard):
 >	Version 2.2:https://web.archive.org/web/20150319063720/http://www.emc.com/emc-plus/rsa-labs/pkcs/files/h11300-wp-pkcs-1v2-2-rsa-cryptography-standard.pdf
 
-* PKCS #7(Crytographic Message Syntax-Version 1.5):https://tools.ietf.org/pdf/rfc2315.pdf
+* PKCS #7(Crytographic Message Syntax):
+>	Version 1.5:https://tools.ietf.org/pdf/rfc2315.pdf
 
 ####	口令Hash函数
 PHC(Password Hashing Competition)是一个类似于NIST的AES和SHA3密码算法竞赛。它发起于2013年，到2014年3月31日为止提交的算法共有24个。2015年7月，该竞赛公布最终获胜的算法————Argon2。
