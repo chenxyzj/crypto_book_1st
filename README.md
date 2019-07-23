@@ -209,6 +209,8 @@
 * PKCS #5(Password-Based Cryptography Standard):
 >	Version 2.1:https://www.rfc-editor.org/rfc/pdfrfc/rfc8018.txt.pdf
 
+>	Version 2.0:https://www.rfc-editor.org/rfc/pdfrfc/rfc2898.txt.pdf
+
 * PKCS #7(Crytographic Message Syntax):
 >	Version 1.5:https://tools.ietf.org/pdf/rfc2315.pdf
 
