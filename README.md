@@ -187,8 +187,12 @@
 * SM2:
 >	《SM2椭圆曲线公钥密码算法》公告:http://www.oscca.gov.cn/sca/xxgk/2010-12/17/content_1002386.shtml
 *	Digital Signature Standard (DSS):https://nvlpubs.nist.gov/nistpubs/FIPS/NIST.FIPS.186-4.pdf
+
 ####	密钥协商（待补充）：
 * DH(Diffie-Hellman Key Agreement Method):https://tools.ietf.org/pdf/rfc2631.pdf
+
+####	PKCS标准（待补充）:
+* PKCS #7( Crytographic Message Syntax ):https://tools.ietf.org/pdf/rfc2315.pdf
 
 ####	口令Hash函数
 PHC(Password Hashing Competition)是一个类似于NIST的AES和SHA3密码算法竞赛。它发起于2013年，到2014年3月31日为止提交的算法共有24个。2015年7月，该竞赛公布最终获胜的算法————Argon2。
