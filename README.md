@@ -188,8 +188,8 @@
 > 	RSA signatures and Rabin–Williams signatures:the state of the art:http://cr.yp.to/sigs/rwsota-20080131.pdf
 * SM2:
 >	《SM2椭圆曲线公钥密码算法》公告:http://www.oscca.gov.cn/sca/xxgk/2010-12/17/content_1002386.shtml
-*	Digital Signature Standard (DSS):https://nvlpubs.nist.gov/nistpubs/FIPS/NIST.FIPS.186-4.pdf
-
+* Digital Signature Standard (DSS):https://nvlpubs.nist.gov/nistpubs/FIPS/NIST.FIPS.186-4.pdf
+* GOST R 34.10-2012(Digital Signature Algorithm):https://www.rfc-editor.org/rfc/pdfrfc/rfc7091.txt.pdf
 ####	密钥协商（待补充）：
 * DH(Diffie-Hellman Key Agreement Method):https://tools.ietf.org/pdf/rfc2631.pdf
 
