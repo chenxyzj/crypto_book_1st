@@ -134,6 +134,7 @@
 > 国家密码管理局关于发布《SM3密码杂凑算法》公告:http://www.oscca.gov.cn/sca/xxgk/2010-12/17/content_1002389.shtml
 
 * SHA3:https://nvlpubs.nist.gov/nistpubs/FIPS/NIST.FIPS.202.pdf
+* GOST R 34.11-2012(Hash Function):https://www.rfc-editor.org/rfc/pdfrfc/rfc6986.txt.pdf
 ####	分组密码（待补充）：
 * CAST-128(The CAST-128 Encryption Algorithm):https://tools.ietf.org/html/rfc2144
 * CAST-256(The CAST-256 Encryption Algorithm):https://tools.ietf.org/html/rfc2612
