@@ -163,6 +163,13 @@
 * KLEIN(KLEIN: A New Family of Lightweight Block Ciphers):http://rfid-cusp.org/rfidsec/files/RFIDSec2011DraftPapers/GongEtAl.pdf
 * Light Encryption Device (LED)(The LED Block Cipher∗):https://eprint.iacr.org/2012/600.pdf
 * GOST R 34.12-2015(Block Cipher "Kuznyechik"):https://www.rfc-editor.org/rfc/pdfrfc/rfc7801.txt.pdf
+
+###	分组密码操作模式（待补充）：
+* CCM:
+> Counter with CBC-MAC (CCM):https://tools.ietf.org/pdf/rfc3610.pdf
+
+> the CCM Mode for Authentication and Confidentiality:https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-38c.pdf
+
 ####	流密码（待补充）：
 * ChaCha20(ChaCha20 and Poly1305 for IETF Protocols):https://tools.ietf.org/html/rfc8439
 * KCipher-2(A Description of the KCipher-2 Encryption Algorithm):https://www.rfc-editor.org/rfc/pdfrfc/rfc7008.txt.pdf
