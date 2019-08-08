@@ -176,6 +176,8 @@
 * EAX:
 > The EAX Mode of Operation:https://web.cs.ucdavis.edu/~rogaway/papers/eax.pdf
 
+> A Conventional Authenticated-Encryption Mode:https://csrc.nist.gov/csrc/media/projects/block-cipher-techniques/documents/bcm/proposed-modes/eax/eax-spec.pdf
+
 ####	流密码（待补充）：
 * ChaCha20(ChaCha20 and Poly1305 for IETF Protocols):https://tools.ietf.org/html/rfc8439
 * KCipher-2(A Description of the KCipher-2 Encryption Algorithm):https://www.rfc-editor.org/rfc/pdfrfc/rfc7008.txt.pdf
