@@ -170,6 +170,10 @@
 
 > the CCM Mode for Authentication and Confidentiality:https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-38c.pdf
 
+* GCM:
+>  Galois/Counter Mode (GCM) and GMAC:https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-38d.pdf
+
+> 
 ####	流密码（待补充）：
 * ChaCha20(ChaCha20 and Poly1305 for IETF Protocols):https://tools.ietf.org/html/rfc8439
 * KCipher-2(A Description of the KCipher-2 Encryption Algorithm):https://www.rfc-editor.org/rfc/pdfrfc/rfc7008.txt.pdf
