@@ -165,6 +165,10 @@
 * GOST R 34.12-2015(Block Cipher "Kuznyechik"):https://www.rfc-editor.org/rfc/pdfrfc/rfc7801.txt.pdf
 
 ###	分组密码操作模式（待补充）：
+
+* ECB、CBC、CFB、OFB、CTR:
+> Modes of operation of the AES algorithm:https://pdfs.semanticscholar.org/8822/66e916ec18ea7022bfa149954a29593f7490.pdf
+
 * CCM:
 > Counter with CBC-MAC (CCM):https://tools.ietf.org/pdf/rfc3610.pdf
 
