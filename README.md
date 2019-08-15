@@ -188,6 +188,12 @@
 * ZUC:
 > The ZUC-256 Stream Cipher:http://www.is.cas.cn/ztzl2016/zouchongzhi/201801/W020180126529970733243.pdf
 
+> 祖冲之序列密码算法：第1部分：算法描述:http://www.gmbz.org.cn/main/viewfile/20180117202410524608.html
+
+> 祖冲之序列密码算法：第2部分：基于祖冲之算法的机密性算法:http://www.gmbz.org.cn/main/viewfile/20180107233806310781.html
+
+> 祖冲之序列密码算法：第3部分：基于祖冲之算法的完整性算法:http://www.gmbz.org.cn/main/viewfile/20180107234058336917.html
+
 ####	消息认证码（待补充）：
 * Poly1305(ChaCha20 and Poly1305 for IETF Protocols):https://tools.ietf.org/html/rfc8439
 * VMAC(VMAC: Message Authentication Code using Universal Hashing):http://www.fastcrypto.org/vmac/draft-krovetz-vmac-01.txt
