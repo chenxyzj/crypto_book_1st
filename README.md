@@ -194,6 +194,9 @@
 
 > 祖冲之序列密码算法：第3部分：基于祖冲之算法的完整性算法:http://www.gmbz.org.cn/main/viewfile/20180107234058336917.html
 
+* RC4:
+> A Survey on RC4 Stream Cipher:https://pdfs.semanticscholar.org/de34/b0849688e14ea057804a9fed76967143ae83.pdf?_ga=2.259674122.1497617209.1566207401-536567378.1562132951
+
 ####	消息认证码（待补充）：
 * Poly1305(ChaCha20 and Poly1305 for IETF Protocols):https://tools.ietf.org/html/rfc8439
 * VMAC(VMAC: Message Authentication Code using Universal Hashing):http://www.fastcrypto.org/vmac/draft-krovetz-vmac-01.txt
