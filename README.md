@@ -197,6 +197,9 @@
 * RC4:
 > A Survey on RC4 Stream Cipher:https://pdfs.semanticscholar.org/de34/b0849688e14ea057804a9fed76967143ae83.pdf?_ga=2.259674122.1497617209.1566207401-536567378.1562132951
 
+> (Not So) Random Shuffles of RC4:https://eprint.iacr.org/2002/067.pdf
+
+> Test Vectors for the Stream Cipher RC4:https://tools.ietf.org/pdf/rfc6229.pdf
 ####	消息认证码（待补充）：
 * Poly1305(ChaCha20 and Poly1305 for IETF Protocols):https://tools.ietf.org/html/rfc8439
 * VMAC(VMAC: Message Authentication Code using Universal Hashing):http://www.fastcrypto.org/vmac/draft-krovetz-vmac-01.txt
