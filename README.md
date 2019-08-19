@@ -205,6 +205,8 @@
 > VMPC One-Way Function and Stream Cipher:https://www.iacr.org/archive/fse2004/30170209/30170209.pdf
 
 > Spritz—a spongy RC4-like stream cipher and hash function:http://people.csail.mit.edu/rivest/pubs/RS14.pdf
+
+> RC4+:Analysis of RC4 and Proposal of Additional Layers for Better Security Margin:https://eprint.iacr.org/2008/396.pdf
 ####	消息认证码（待补充）：
 * Poly1305(ChaCha20 and Poly1305 for IETF Protocols):https://tools.ietf.org/html/rfc8439
 * VMAC(VMAC: Message Authentication Code using Universal Hashing):http://www.fastcrypto.org/vmac/draft-krovetz-vmac-01.txt
