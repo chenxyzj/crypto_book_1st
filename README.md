@@ -202,6 +202,8 @@
 > Test Vectors for the Stream Cipher RC4:https://tools.ietf.org/pdf/rfc6229.pdf
 
 * RC4变种:
+> RC4A:A New Weakness in the RC4 Keystream Generator and an Approach to Improve the Security of the Cipher:http://www.cosic.esat.kuleuven.be/publications/article-40.ps
+
 > VMPC One-Way Function and Stream Cipher:https://www.iacr.org/archive/fse2004/30170209/30170209.pdf
 
 > Spritz—a spongy RC4-like stream cipher and hash function:http://people.csail.mit.edu/rivest/pubs/RS14.pdf
