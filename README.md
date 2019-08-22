@@ -126,6 +126,9 @@
 * MD4(The MD4 Message-Digest Algorithm):https://tools.ietf.org/html/rfc1320
 * MD5(The MD5 Message-Digest Algorithm):https://datatracker.ietf.org/doc/rfc1321/
 * SHA1(US Secure Hash Algorithm 1 (SHA1)):https://tools.ietf.org/html/rfc3174
+* SHA2(SHA-224、SHA-256、SHA-384、SHA-512):
+> Secure Hash Standard (SHS):https://nvlpubs.nist.gov/nistpubs/FIPS/NIST.FIPS.180-4.pdf
+
 * SM3:
 > SM3 Hash function(draft-shen-sm3-hash-01):https://tools.ietf.org/html/draft-shen-sm3-hash
 
