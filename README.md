@@ -133,6 +133,12 @@
 
 > 国家密码管理局关于发布《SM3密码杂凑算法》公告:http://www.oscca.gov.cn/sca/xxgk/2010-12/17/content_1002389.shtml
 
+>  The SM3 Cryptographic Hash Function draft-sca-cfrg-sm3-02:https://tools.ietf.org/pdf/draft-sca-cfrg-sm3-02.pdf
+
+>  The SM3 Cryptographic Hash Function draft-sca-cfrg-sm3-01:https://tools.ietf.org/pdf/draft-sca-cfrg-sm3-01.pdf
+
+>  The SM3 Cryptographic Hash Function draft-sca-cfrg-sm3-00:https://tools.ietf.org/pdf/draft-sca-cfrg-sm3-00.pdf
+
 * SHA3:https://nvlpubs.nist.gov/nistpubs/FIPS/NIST.FIPS.202.pdf
 * GOST R 34.11-2012(Hash Function):https://www.rfc-editor.org/rfc/pdfrfc/rfc6986.txt.pdf
 ####	分组密码（待补充）：
