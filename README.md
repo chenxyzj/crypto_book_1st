@@ -152,6 +152,7 @@
 
 * HAVAL - A one-way hashing algorithm with variable length output:https://ro.uow.edu.au/cgi/viewcontent.cgi?referer=&httpsredir=1&article=2096&context=infopapers
 * The Whirlpool Secure Hash Function:https://www2.seas.gwu.edu/~poorvi/Classes/CS381_2007/Whirlpool.pdf
+* Tiger:A Fast New Cryptographic Hash Function (Designed in 1995):http://www.cs.technion.ac.il/~biham/Reports/Tiger/
 
 ####	分组密码（待补充）：
 * CAST-128(The CAST-128 Encryption Algorithm):https://tools.ietf.org/html/rfc2144
