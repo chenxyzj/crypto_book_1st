@@ -143,14 +143,14 @@
 
 >  The SM3 Cryptographic Hash Function draft-sca-cfrg-sm3-00:https://tools.ietf.org/pdf/draft-sca-cfrg-sm3-00.pdf
 
-* SHA3:https://nvlpubs.nist.gov/nistpubs/FIPS/NIST.FIPS.202.pdf
+* SHA3:https://nvlpubs.nist.gov/nistpubs/FIPS/NIST.FIPS.202.pdf>
 * GOST R 34.11-2012(Hash Function):https://www.rfc-editor.org/rfc/pdfrfc/rfc6986.txt.pdf
 * RIPEMD:
 > The hash function RIPEMD-160:https://homes.esat.kuleuven.be/~bosselae/ripemd160.html#Outline
 
 > RIPEMD-160:A Strengthened Version of RIPEMD:https://homes.esat.kuleuven.be/~bosselae/ripemd160/pdf/AB-9601/AB-9601.pdf
 
-
+* HAVAL - A one-way hashing algorithm with variable length output:https://ro.uow.edu.au/cgi/viewcontent.cgi?referer=&httpsredir=1&article=2096&context=infopapers
 ####	分组密码（待补充）：
 * CAST-128(The CAST-128 Encryption Algorithm):https://tools.ietf.org/html/rfc2144
 * CAST-256(The CAST-256 Encryption Algorithm):https://tools.ietf.org/html/rfc2612
