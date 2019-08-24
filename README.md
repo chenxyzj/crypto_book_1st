@@ -148,6 +148,9 @@
 * RIPEMD:
 > The hash function RIPEMD-160:https://homes.esat.kuleuven.be/~bosselae/ripemd160.html#Outline
 
+> RIPEMD-160:A Strengthened Version of RIPEMD:https://homes.esat.kuleuven.be/~bosselae/ripemd160/pdf/AB-9601/AB-9601.pdf
+
+
 ####	分组密码（待补充）：
 * CAST-128(The CAST-128 Encryption Algorithm):https://tools.ietf.org/html/rfc2144
 * CAST-256(The CAST-256 Encryption Algorithm):https://tools.ietf.org/html/rfc2612
