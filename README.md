@@ -129,6 +129,7 @@
 * SHA2(SHA-224、SHA-256、SHA-384、SHA-512):
 > Secure Hash Standard (SHS):https://nvlpubs.nist.gov/nistpubs/FIPS/NIST.FIPS.180-4.pdf
 
+> US Secure Hash Algorithms (SHA and HMAC-SHA):https://www.rfc-editor.org/rfc/pdfrfc/rfc4634.txt.pdf
 * SM3:
 > SM3 Hash function(draft-shen-sm3-hash-01):https://tools.ietf.org/html/draft-shen-sm3-hash
 
