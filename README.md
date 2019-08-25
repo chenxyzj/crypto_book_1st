@@ -238,6 +238,8 @@
 * RFC2898(PKCS #5: Password-Based Cryptography Specification  Version 2.0):https://tools.ietf.org/html/rfc2898
 * RFC5869(HMAC-based Extract-and-Expand Key Derivation Function (HKDF)):https://tools.ietf.org/html/rfc5869
 * RFC7914(The scrypt Password-Based Key Derivation Function):https://tools.ietf.org/html/rfc7914.pdf
+* SipHash:
+> SipHash: a fast short-input PRF:https://131002.net/siphash/siphash.pdf
 ####	公钥加密（待补充）：
 * RSA:
 > PKCS#1-2.2(PKCS #1: RSA Cryptography Specifications Version 2.2):https://tools.ietf.org/pdf/rfc8017.pdf
