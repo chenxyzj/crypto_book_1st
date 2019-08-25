@@ -240,6 +240,9 @@
 * RFC7914(The scrypt Password-Based Key Derivation Function):https://tools.ietf.org/html/rfc7914.pdf
 * SipHash:
 > SipHash: a fast short-input PRF:https://131002.net/siphash/siphash.pdf
+
+> SipHash:https://131002.net/siphash/
+
 ####	公钥加密（待补充）：
 * RSA:
 > PKCS#1-2.2(PKCS #1: RSA Cryptography Specifications Version 2.2):https://tools.ietf.org/pdf/rfc8017.pdf
