@@ -232,16 +232,16 @@
 * Poly1305(ChaCha20 and Poly1305 for IETF Protocols):https://tools.ietf.org/html/rfc8439
 * VMAC(VMAC: Message Authentication Code using Universal Hashing):http://www.fastcrypto.org/vmac/draft-krovetz-vmac-01.txt
 * GOST 28147-89(Encryption, Decryption, and Message Authentication Code (MAC) Algorithms):https://www.rfc-editor.org/rfc/pdfrfc/rfc5830.txt.pdf
+* SipHash:
+> SipHash: a fast short-input PRF:https://131002.net/siphash/siphash.pdf
+
+> SipHash:https://131002.net/siphash/
 ####	密钥派生和基于口令的密钥派生（待补充）：
 * NIST SP 800-108(Recommendation for Key Derivation Using Pseudorandom Functions):https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-108.pdf
 * NIST SP 800-132(Recommendation for Password-Based Key Derivation: Part 1: Storage Applications):https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-132.pdf
 * RFC2898(PKCS #5: Password-Based Cryptography Specification  Version 2.0):https://tools.ietf.org/html/rfc2898
 * RFC5869(HMAC-based Extract-and-Expand Key Derivation Function (HKDF)):https://tools.ietf.org/html/rfc5869
 * RFC7914(The scrypt Password-Based Key Derivation Function):https://tools.ietf.org/html/rfc7914.pdf
-* SipHash:
-> SipHash: a fast short-input PRF:https://131002.net/siphash/siphash.pdf
-
-> SipHash:https://131002.net/siphash/
 
 ####	公钥加密（待补充）：
 * RSA:
