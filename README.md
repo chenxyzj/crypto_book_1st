@@ -159,6 +159,9 @@
 > BLAKE2:simpler, smaller, fast as MD5:https://eprint.iacr.org/2013/322.pdf
 
 > The BLAKE2 Cryptographic Hash and Message Authentication Code (MAC):https://tools.ietf.org/pdf/rfc7693.pdf
+* Sponge:
+> Cryptographic sponge functions:https://keccak.team/files/CSF-0.1.pdf
+
 ####	分组密码（待补充）：
 * CAST-128(The CAST-128 Encryption Algorithm):https://tools.ietf.org/html/rfc2144
 * CAST-256(The CAST-256 Encryption Algorithm):https://tools.ietf.org/html/rfc2612
