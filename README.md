@@ -248,7 +248,7 @@
 * NIST SP 800-108(Recommendation for Key Derivation Using Pseudorandom Functions):https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-108.pdf
 * NIST SP 800-132(Recommendation for Password-Based Key Derivation: Part 1: Storage Applications):https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-132.pdf
 * RFC2898(PKCS #5: Password-Based Cryptography Specification  Version 2.0):https://tools.ietf.org/html/rfc2898
-* RFC5869(HMAC-based Extract-and-Expand Key Derivation Function (HKDF)):https://tools.ietf.org/html/rfc5869
+* HKDF(HMAC-based Extract-and-Expand Key Derivation Function (HKDF)):https://tools.ietf.org/html/rfc5869
 * scrypt(The scrypt Password-Based Key Derivation Function):https://tools.ietf.org/html/rfc7914.pdf
 
 ####	公钥加密（待补充）：
