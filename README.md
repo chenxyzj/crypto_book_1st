@@ -248,6 +248,8 @@
 * HMAC:
 > The Keyed-Hash Message Authentication Code (HMAC):https://nvlpubs.nist.gov/nistpubs/FIPS/NIST.FIPS.198-1.pdf
 
+> HMAC: Keyed-Hashing for Message Authentication:https://tools.ietf.org/pdf/rfc2104.pdf
+
 ####	密钥派生和基于口令的密钥派生（待补充）：
 * NIST SP 800-108(Recommendation for Key Derivation Using Pseudorandom Functions):https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-108.pdf
 * NIST SP 800-132(Recommendation for Password-Based Key Derivation: Part 1: Storage Applications):https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-132.pdf
