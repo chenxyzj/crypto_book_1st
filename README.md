@@ -191,7 +191,7 @@
 * Light Encryption Device (LED)(The LED Block Cipher∗):https://eprint.iacr.org/2012/600.pdf
 * GOST R 34.12-2015(Block Cipher "Kuznyechik"):https://www.rfc-editor.org/rfc/pdfrfc/rfc7801.txt.pdf
 
-###	分组密码操作模式（待补充）：
+####	分组密码操作模式（待补充）：
 
 * ECB、CBC、CFB、OFB、CTR:
 > Modes of operation of the AES algorithm:https://pdfs.semanticscholar.org/8822/66e916ec18ea7022bfa149954a29593f7490.pdf
@@ -348,3 +348,4 @@ PHC(Password Hashing Competition)是一个类似于NIST的AES和SHA3密码算法
 * Catfish：（待补充）
 ###		其他：
 * Performance of Optimized Implementations of the NESSIE Primitives:https://www.cosic.esat.kuleuven.be/nessie/deliverables/D21-v2.pdf
+* 可信计算——可信密码支撑平台功能与接口规范:http://www.gmbz.org.cn/file/2018-02-06/856e0efa-f970-4173-ae70-b2e933bf40ee.pdf
