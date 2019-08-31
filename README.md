@@ -352,3 +352,4 @@ PHC(Password Hashing Competition)是一个类似于NIST的AES和SHA3密码算法
 * Security Requirements for Cryptographic Modules-2:https://nvlpubs.nist.gov/nistpubs/FIPS/NIST.FIPS.140-2.pdf
 * Security Requirements for Cryptographic Modules-3:https://nvlpubs.nist.gov/nistpubs/FIPS/NIST.FIPS.140-3.pdf
 * Implementation Guidance fo FIPS 140-2 and the Cryptographic Moduler Validation Program:https://csrc.nist.gov/CSRC/media/Projects/Cryptographic-Module-Validation-Program/documents/fips140-2/FIPS1402IG.pdf
+* NIST Cryptographic Algorithm Validation Program (CAVP) Certifications for Freescale Cryptographic Accelerators:https://www.nxp.com/docs/en/supporting-information/FSLNISTCAVP.pdf
