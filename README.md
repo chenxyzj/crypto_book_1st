@@ -349,6 +349,7 @@ PHC(Password Hashing Competition)是一个类似于NIST的AES和SHA3密码算法
 ###		其他：
 * Performance of Optimized Implementations of the NESSIE Primitives:https://www.cosic.esat.kuleuven.be/nessie/deliverables/D21-v2.pdf
 * 可信计算——可信密码支撑平台功能与接口规范:http://www.gmbz.org.cn/file/2018-02-06/856e0efa-f970-4173-ae70-b2e933bf40ee.pdf
+* 智能IC 卡及智能密码钥匙——密码应用接口规范:http://www.bjgm.gov.cn/web/static/articles/catalog_ff80808135bcbc840135d78fe7140001/article_ff80808135bcbc8401361aaaf47200ad/ff80808135bcbc8401361aaaf47200af.pdf
 * Security Requirements for Cryptographic Modules-2:https://nvlpubs.nist.gov/nistpubs/FIPS/NIST.FIPS.140-2.pdf
 * Security Requirements for Cryptographic Modules-3:https://nvlpubs.nist.gov/nistpubs/FIPS/NIST.FIPS.140-3.pdf
 * Implementation Guidance fo FIPS 140-2 and the Cryptographic Moduler Validation Program:https://csrc.nist.gov/CSRC/media/Projects/Cryptographic-Module-Validation-Program/documents/fips140-2/FIPS1402IG.pdf
