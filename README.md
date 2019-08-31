@@ -382,3 +382,5 @@ PHC(Password Hashing Competition)是一个类似于NIST的AES和SHA3密码算法
 > https://csrc.nist.gov/CSRC/media/Projects/Cryptographic-Module-Validation-Program/documents/fips140-2/FIPS1402IG.pdf
 * NIST Cryptographic Algorithm Validation Program (CAVP) Certifications for Freescale Cryptographic Accelerators:
 > https://www.nxp.com/docs/en/supporting-information/FSLNISTCAVP.pdf
+* 中华人民共和国密码行业标准(GM/T):
+> https://github.com/guanzhi/GM-Standards
