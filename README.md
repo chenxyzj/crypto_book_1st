@@ -191,6 +191,7 @@
 * Light Encryption Device (LED)(The LED Block Cipher∗):https://eprint.iacr.org/2012/600.pdf
 * GOST R 34.12-2015(Block Cipher "Kuznyechik"):https://www.rfc-editor.org/rfc/pdfrfc/rfc7801.txt.pdf
 
+
 ####	分组密码操作模式（待补充）：
 
 * ECB、CBC、CFB、OFB、CTR:
